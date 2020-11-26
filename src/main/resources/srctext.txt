@@ -1,0 +1,3 @@
+$yesterdaydate16时至$todaydate16时,全市道路前端科技设备建设运行情况：全市前端设备概况：全市前端科技设备已出质保期点位共1176处（五年以内点位982处，五年以上点位194处），未出质保期点位共2125处。除设备老化需更换的点位$allDghDw处，设备停运的点位$allSbtyDw处，应正常运行的点位$yzcyx处；其中电视监控$allDsjk处，正常运行$dsjkZcyx处，设备完好率$dsjkWhBfb%；电子警察$allDzjc处,正常运行$dzjcZcyx处，设备完好率$dzjcWhBfb%；卡口$allKk处,正常运行$kkZcyx处，设备完好率$kkWhBfb%；微电警$allWdj处,正常运行$wdjZcyx处,设备完好率$wdjWhBfb%。
+维修工作情况：昨日报修故障共$yesterdayAllErrNum处（需支队派工维修$yesterdayZdpgErrNum处，大队自行处理$yesterdayDdclErrNum处）,已修复故障$yesterdayAllRepairNum处(支队维修$yesterdayZdpgRepairNum处，大队维修$yesterdayDdclRepairNum处)，剩余故障$lastAllErrNum处（$lastZdWx处未出保第三方维修中,$lastDdWx处大队维修。）；今日报修故障共$todayAllErrNum处（需支队派工维修$todayZdpgErrNum处，大队自行处理$todayDdclErrNum处）。
+今日各区县故障明细：$gzqxmx。
